@@ -3,7 +3,7 @@ Hi, I am Tianyi.
 - 🏫 Education: B.S. in Computer Science, Mathematics, Data Science (In progress)
 - 🔬 Research: I have a broad interest in Machine learning, CV, deep Learning, high dimensional statistics, etc. My current research focuses on their application of them in various fields.
   - You can find more about what I am working on [here](https://tianyi0216.github.io/research/) or at my [WID profile](https://wid.wisc.edu/people/tianyi-xu/).
-- 💻 Work: Undergraduate Research Assistant @ [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and Peer Mentor for CS 320 @ [UW-Madison CS](https://www.cs.wisc.edu/).
+- 💻 Work: Research Assistant @ [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and Peer Mentor for CS 320 @ [UW-Madison CS](https://www.cs.wisc.edu/).
 - ℹ️ Link: [Personal Website](https://tianyi0216.github.io/) , [linkedin](https://www.linkedin.com/in/tianyi-xu/)
 
 
