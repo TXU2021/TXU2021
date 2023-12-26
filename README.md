@@ -6,6 +6,8 @@ Hi, I am Tianyi.
 - 💻 Work: Research Assistant @ [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and Peer Mentor for CS 320 @ [UW-Madison CS](https://www.cs.wisc.edu/).
 - ℹ️ Link: [Personal Website](https://tianyi0216.github.io/) , [linkedin](https://www.linkedin.com/in/tianyi-xu/)
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=tianyi0216)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **tianyi0216/tianyi0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
