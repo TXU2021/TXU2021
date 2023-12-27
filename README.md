@@ -6,7 +6,7 @@ Hi, I am Tianyi.
 - 💻 Work: Research Assistant @ [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and Peer Mentor for CS 320 @ [UW-Madison CS](https://www.cs.wisc.edu/).
 - ℹ️ Link: [Personal Website](https://tianyi0216.github.io/) , [linkedin](https://www.linkedin.com/in/tianyi-xu/)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=tianyi0216&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - No one asked: [who](https://86-eighty-six.fandom.com/wiki/Vladilena_Miliz%C3%A9) is my current profile picture.
+[![Stats](https://github-readme-stats.vercel.app/api?username=tianyi0216&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
