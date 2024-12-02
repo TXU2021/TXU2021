@@ -1,5 +1,7 @@
 Hi, I am Tianyi.
 
+<!--
+
 - 🏫 Education: B.S. in Computer Science, Mathematics, Data Science (In progress)
 - 🔬 Research: I have a broad interest in Machine learning, CV, deep Learning, high dimensional statistics, etc. My current research focuses on their application of them in various fields.
   - You can find more about what I am working on [here](https://tianyi0216.github.io/research/) or at my [WID profile](https://wid.wisc.edu/people/tianyi-xu/).
@@ -9,7 +11,7 @@ Hi, I am Tianyi.
 
 
 
-<!--
+
 **tianyi0216/tianyi0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
